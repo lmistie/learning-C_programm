@@ -1,5 +1,6 @@
 <h2 align="center"><font size="6px"> C_Programm </font></h2>
-<!--# <center> Меня зовут Горбунов Роман </center>-->
-<h2 align="center"><font size="6px"> Здесь я учу С</font></h2>
-<!--# <center>Я начинающий инженер-программист и веб-программист</center>-->
+<!--Заголовок-->
+<h2 align="center"><font size="6px"> Здесь я учу </font></h2>
+<!--Заголовок 2-->
 
+![Header] (https://github.com/lmistie/lmistie/blob/master/img/foto.png)
