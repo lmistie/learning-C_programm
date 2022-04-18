@@ -2,6 +2,9 @@
 <!--Заголовок-->
 
 <h2 align="center">
-![C_prog](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)</h2>
+
+![C_prog](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+
+</h2>
 
 ![IMG](https://github.com/lmistie/learning-C_programm/blob/main/img/foto.png)
