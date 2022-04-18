@@ -3,4 +3,4 @@
 <h2 align="center"><font size="6px"> Здесь я учу </font></h2>
 <!--Заголовок 2-->
 
-[![IMG](https://github.com/lmistie/lmistie/blob/master/img/foto.png)]
+![IMG](https://github.com/lmistie/learning-C_programm/blob/main/img/foto.png)
